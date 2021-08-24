@@ -1,12 +1,1 @@
-这里是temp2的main分支
-修改一下temp2.txt
-再来一个修改
-修改修改
-good
-fine
-commit1
-commit2
-commit3
-commit4
-commit5
-commit6
+commit 1
